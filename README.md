@@ -24,6 +24,10 @@ float3 color = ambient + diffuse + specular;
 ```
 ## Color Map
 
+![image](https://github.com/AdamWu/UnityVolumeRender/blob/main/images/colormap1.png)
+![image](https://github.com/AdamWu/UnityVolumeRender/blob/main/images/colormap2.png)
+![image](https://github.com/AdamWu/UnityVolumeRender/blob/main/images/colormap3.png)
+
 ## DICOM
 
 dicom format： https://it.wikipedia.org/wiki/DICOM

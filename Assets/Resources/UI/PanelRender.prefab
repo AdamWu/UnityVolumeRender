@@ -1273,7 +1273,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u914D\u8272\u65B9\u6848:"
+  m_Text: 'Preset:'
 --- !u!1 &2800014917812860443
 GameObject:
   m_ObjectHideFlags: 0
@@ -2110,7 +2110,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u4F53\u6E32\u67D3\u8BBE\u7F6E"
+  m_Text: Setting
 --- !u!1 &3192261293003674660
 GameObject:
   m_ObjectHideFlags: 0
@@ -2763,7 +2763,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u9AD8\u5149:"
+  m_Text: 'Specular:'
 --- !u!1 &4170534976166320793
 GameObject:
   m_ObjectHideFlags: 0
@@ -2842,7 +2842,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u73AF\u5883\u5149\uFF1A"
+  m_Text: "Ambient\uFF1A"
 --- !u!1 &4170534976209138428
 GameObject:
   m_ObjectHideFlags: 0
@@ -2921,7 +2921,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u6F2B\u5C04\u5149\uFF1A"
+  m_Text: "Diffuse\uFF1A"
 --- !u!1 &4170534976331132133
 GameObject:
   m_ObjectHideFlags: 0
@@ -3000,7 +3000,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u9AD8\u5149\u5F3A\u5EA6:"
+  m_Text: 'S Power:'
 --- !u!1 &4170534976560918642
 GameObject:
   m_ObjectHideFlags: 0
@@ -3688,7 +3688,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u8868\u9762\u989C\u8272:"
+  m_Text: 'Color:'
 --- !u!1 &7716602260269649474
 GameObject:
   m_ObjectHideFlags: 0
@@ -7512,7 +7512,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u6750\u8D28:"
+  m_Text: 'Light:'
 --- !u!1 &7716602260269649549
 GameObject:
   m_ObjectHideFlags: 0
@@ -7846,7 +7846,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u989C\u8272\u6E10\u53D8:"
+  m_Text: 'ColorMap:'
 --- !u!1 &7716602260269649554
 GameObject:
   m_ObjectHideFlags: 0
@@ -7923,7 +7923,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u900F\u660E\u6E10\u53D8:"
+  m_Text: 'AlphaMap:'
 --- !u!1 &7716602260269649555
 GameObject:
   m_ObjectHideFlags: 0
@@ -10139,7 +10139,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u6E32\u67D3\u6A21\u5F0F:"
+  m_Text: 'Mode:'
 --- !u!1 &9032805403711811019
 GameObject:
   m_ObjectHideFlags: 0
@@ -10294,4 +10294,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u8868\u9762\u9608\u503C:"
+  m_Text: 'Threshold:'

@@ -794,6 +794,11 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2800014917644575877, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Preset:'
+      objectReference: {fileID: 0}
     - target: {fileID: 4170534974577606623, guid: 6d4679b4e50351a48a8daf9ee5afc127,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -818,6 +823,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170534976015652577, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Specular:'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170534976166320795, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: "Ambient\uFF1A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170534976209138430, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: "Diffuse\uFF1A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170534976331132135, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: 'S Power:'
       objectReference: {fileID: 0}
     - target: {fileID: 4170534976560918637, guid: 6d4679b4e50351a48a8daf9ee5afc127,
         type: 3}
@@ -969,6 +994,26 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7280271993917118973, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Color:'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7716602260269648168, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Light:'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7716602260269648224, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: 'AlphaMap:'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7716602260269648231, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: 'ColorMap:'
+      objectReference: {fileID: 0}
     - target: {fileID: 7716602260269648736, guid: 6d4679b4e50351a48a8daf9ee5afc127,
         type: 3}
       propertyPath: m_AnchorMin.x
@@ -1083,6 +1128,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9032805403570715222, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: 'mode:'
       objectReference: {fileID: 0}
     - target: {fileID: 9032805403711811018, guid: 6d4679b4e50351a48a8daf9ee5afc127,
         type: 3}
@@ -1108,6 +1158,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9032805405054597756, guid: 6d4679b4e50351a48a8daf9ee5afc127,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Surface H:'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d4679b4e50351a48a8daf9ee5afc127, type: 3}
