@@ -14,10 +14,9 @@ public class PanelMain : MonoBehaviour
     private VolumeRenderer m_VolumeRender;
 
     private Transform Root;
+    Button btnSlice;
 
     ModelShowController modelShowController;
-    Button btnFree;
-    Button btnSlice;
 
     Transform PlaneTransverse, PlaneCoronal, PlaneSagittal;
 
@@ -40,8 +39,7 @@ public class PanelMain : MonoBehaviour
         PlaneTransverse.gameObject.SetActive(false);
         PlaneCoronal.gameObject.SetActive(false);
         PlaneSagittal.gameObject.SetActive(false);
-
-        btnFree = transform.Find("ButtonFree").GetComponent<Button>();
+        
         btnSlice = transform.Find("ButtonSlice").GetComponent<Button>();
         btnSlice.onClick.AddListener(delegate ()
         {

@@ -91,6 +91,8 @@ namespace VolumeRender
         {
             IsImporting = true;
 
+            yield return null;
+
             string[] fileCandidates = Directory.GetFiles(directory, "*.*", recursive ? SearchOption.AllDirectories : SearchOption.TopDirectoryOnly);
 
             sliceFiles.Clear();
@@ -109,27 +111,8 @@ namespace VolumeRender
 
                 Progress = 1.0f * i / fileCandidates.Length;
                 
-                /*
-                FileStream fs = File.OpenRead(filePath);
-                DicomFile.OpenAsync(fs).ContinueWith(t => 
-                {
-                    DicomFile dcmFile = t.Result;
-                    DICOMSliceFile slice = ParseSliceFile(dcmFile);
-                    if (slice != null)
-                    {
-                        if (!sliceFiles.ContainsKey(slice.seriesNumber))
-                        {
-                            sliceFiles.Add(slice.seriesNumber, new List<DICOMSliceFile>());
-                        }
-                        sliceFiles[slice.seriesNumber].Add(slice);
-                    }
-                    Progress = 1.0f * i / fileCandidates.Length;
-                });
-                */
-
-                //yield return null;
+                yield return null;
             }
-            yield return null;
 
             VolumeDataset[] datasets = null;
             if (sliceFiles.Count > 0)
