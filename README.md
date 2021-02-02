@@ -81,7 +81,7 @@ for (int i = 0; i < n; i++)
 }
 ```
 
-## DICOM source
+> DICOM source
 - http://www.osirix-viewer.com/datasets/    
 - http://www.aycan.de/lp/sample-dicom-images.html
 - http://www.barre.nom.fr/medical/samples/
@@ -91,5 +91,5 @@ for (int i = 0; i < n; i++)
 
 ## Screenshot
 
-![image](https://github.com/AdamWu/UnityVolumeRender/blob/main/images/screenshot1.png)
-![image](https://github.com/AdamWu/UnityVolumeRender/blob/main/images/screenshot2.png)
+![image](https://github.com/AdamWu/UnityVolumeRender/blob/main/images/screenshoot1.png)
+![image](https://github.com/AdamWu/UnityVolumeRender/blob/main/images/screenshoot2.png)
