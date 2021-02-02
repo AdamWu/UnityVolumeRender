@@ -1,4 +1,4 @@
-# UnityVolumeRender
+# Unity Volume Render
 Volume Render for Unity, inlcude suface volume render and direct volume render. Volume dataset can be raw data or dicom file.
 
 ## Volume Render
@@ -87,3 +87,9 @@ for (int i = 0; i < n; i++)
 - http://www.barre.nom.fr/medical/samples/
 - https://estore.merge.com/na/efilmcommunity/sample.html
 - http://www.dicomlibrary.com/
+
+
+## Screenshot
+
+![image](https://github.com/AdamWu/UnityVolumeRender/blob/main/images/screenshot1.png)
+![image](https://github.com/AdamWu/UnityVolumeRender/blob/main/images/screenshot2.png)
