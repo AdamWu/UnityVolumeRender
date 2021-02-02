@@ -120,7 +120,7 @@ public class PanelMain : MonoBehaviour
             Vector3 orign = ray.origin;
             Vector3 dir = ray.direction;
 
-            Debug.LogFormat("orgin {0} dir {1}", orign, dir);
+            //Debug.LogFormat("orgin {0} dir {1}", orign, dir);
             Debug.DrawLine(orign, orign + dir * 100, Color.red, 5);
  
             // 选择最优扫描方向

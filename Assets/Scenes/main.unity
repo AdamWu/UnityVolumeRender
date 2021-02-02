@@ -409,12 +409,12 @@ MonoBehaviour:
   m_RotateEnable: 1
   m_RotateSpeed: {x: 0.2, y: 0.1}
   m_RotateMouseButton: 0
-  m_RotateYSpace: 1
+  m_RotateYSpace: 0
   m_RotateAnchor: {fileID: 0}
   m_ZoomEnable: 1
   m_ZoomSpeed: 2
   m_ZoomTouchSpeed: 0.3
-  m_ZoomFree: 0
+  m_ZoomFree: 1
   m_MoveEnable: 1
   m_MoveMouseButton: 1
   bControl: 0
